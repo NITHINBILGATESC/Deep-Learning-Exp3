@@ -162,6 +162,7 @@ print(x_single_prediction)
 
 
 **Classification Report**
+
 <img width="848" height="500" alt="image" src="https://github.com/user-attachments/assets/d296b46e-954f-4d72-a2ab-3a58b02da762" />
 
 
@@ -176,6 +177,7 @@ print(x_single_prediction)
 
 
 **Predicted Output:**
+
 <img width="825" height="118" alt="image" src="https://github.com/user-attachments/assets/89a368f5-9d97-41a8-9162-fd85219613ff" />
 
 
